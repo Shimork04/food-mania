@@ -1,5 +1,5 @@
 
-# Web App Image
+## Web App Image
 
 ![image](https://github.com/Shimork04/food-mania/assets/111634234/a477bc2d-a6a4-48b9-8635-801e1adcf239)
 
