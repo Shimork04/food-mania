@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+
+# Web App Image
+
+![image](https://github.com/Shimork04/food-mania/assets/111634234/a477bc2d-a6a4-48b9-8635-801e1adcf239)
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
